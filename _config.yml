@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Lucas Nobre"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hoje, o ‘eu não sei’, se tornou o ‘eu ainda não sei'. - Bill Gates."
+  bio    : "Hoje, o ‘eu não sei’, se tornou o ‘eu ainda não sei'. <br> - Bill Gates."
   links:
     - label: "@lucasnobredev"
       icon: "fab fa-fw fa-twitter-square"
