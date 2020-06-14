@@ -1,6 +1,5 @@
 ---
 title: "Minha primeira contribuição para a Microsoft"
-author: "Lucas Nobre"
 categories: open-source
 tags: [microsoft,git, github, opensource]
 image: microsoftopensource.jpg
