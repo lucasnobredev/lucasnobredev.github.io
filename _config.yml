@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Lucas Nobre"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : ".NET Developer na Mundipagg"
+  bio    : "Hoje, o ‘eu não sei’, se tornou o ‘eu ainda não sei'. - Bill Gates."
   links:
     - label: "@lucasnobredev"
       icon: "fab fa-fw fa-twitter-square"
