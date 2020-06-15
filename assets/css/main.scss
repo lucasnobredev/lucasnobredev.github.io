@@ -5,8 +5,8 @@
 @charset "utf-8";
 
 // Add this before imports
-$tq-blue: #342797;
-$deepmind-blue: #15244a; 
+$tq-blue: #000000;
+$deepmind-blue: #000000; 
 
 $link-color: $tq-blue;
 // $link-color: $deepmind-blue;
@@ -30,6 +30,9 @@ html {
   }
 }
 
+.list__item a {
+  text-decoration:"none"
+}
 // .greedy-nav a { color: $deepmind-blue; } // link color TQ blue
 // .greedy-nav a { color: red; } // link color 
 // .greedy-nav a { color: #15244a; } // link color deepmind blue
