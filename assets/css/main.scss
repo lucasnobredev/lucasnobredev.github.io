@@ -1,9 +1,11 @@
 @charset "utf-8";
 
+$tq-blue: #000000;
+$link-color: $tq-blue;
+
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-a {
-    color:black;
-    text-decoration:none
+.archive__item-title a {
+    text-decoration: none;
 }
