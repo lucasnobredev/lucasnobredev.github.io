@@ -3,4 +3,7 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-$link-color:#000000;
+a {
+    color:black;
+    text-decoration:none
+}
