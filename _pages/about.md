@@ -3,6 +3,17 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+<img src="https://pbs.twimg.com/profile_images/1100360595944194049/XukYIGpu_400x400.jpg" style="border-radius:50%; width:20%; margin:0 40%" />
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+Bem vindo ao blog! Eu sou o Lucas, software developer e trabalho atualmente na [Mundipagg](https://www.mundipagg.com/).
+
+Comecei a ter contato com desenvolvimento de software em 2012 no SENAI Maracanã, mas fui ter minha primeira experiência profissional apenas em 2013, com PHP. Trabalhei dois anos desenvolvendo sites e e-commerces com WordPress. Somente no final de 2014 eu conheci o Javascript e C#, que tem sido meu foco desde então.
+
+Sou formado em Análise de Sistemas pela Universidade Estácio de Sá.
+
+## Por que ter um blog?
+Há algum tempo atrás, passei por uma das situações mais desafiadoras da minha vida: ser a referência de um time bem jovem. Na época nosso desenvolvedor mais experiente havia acabado de sair e vi a oportunidade de cumprir esta função que ele exercia tão bem. 
+
+Desde então, passei a ser o cara que ajudava e ensinava o time a desenhar fluxos de negócio, tirava dúvidas técnicas e formentava muito conhecimento. E eu simplesmente me apaixonei por isso! Passei a gostar muito de explicar e ensinar às pessoas, principalmente porque além delas crescerem dia após dia, eu aprendia duas vezes. Foi incrível o quanto o time cresceu com essa troca. Pouco tempo depois fui estimulado a compartilhar através de outras formas como o open-source, palestras e o blog. 
+
+Minha intenção não é postar somente tutoriais ensinando como fazer isso ou aquilo, pois tenho certeza que já existem muitos por aí. Quero escrever aqui sobre minhas experiências, os problemas que passei e como os resolvi. 
