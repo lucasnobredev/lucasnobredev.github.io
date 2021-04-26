@@ -22,7 +22,7 @@ Eu ouvi falar sobre a Microsoft e o Open Source há algum tempo, mas apenas rece
 
 Tudo começou quando eu estava olhando minha timeline no Twitter [e a Maira Wenzel tweetou](https://twitter.com/mairacw/status/969636807292813313) agradecendo a comunidade sobre todo o trabalho feito na [documentação do .NET](https://docs.microsoft.com/en-us/dotnet/) naquele mês. Eu, que já havia tomado um puxão de orelha de amigos por não ter começado a contribuir no GitHub, vi que era a oportunidade perfeita!
 
-![Twitter_Maira](../assets/images/twitter_maira.png)
+![Twitter_Maira](../../assets/images/twitter_maira.png)
 
 <hr>
 
@@ -80,7 +80,7 @@ O time irá revisar o seu pull request, não só o que você alterou, mas també
 
 Após a revisão do time, voilà! O seu pull request será  m̶e̶r̶g̶e̶a̶d̶o mesclado a versão oficial da documentação.
 
-![Face In Docs](../assets/images/face-in-docs.png)
+![Face In Docs](../../assets/images/face-in-docs.png)
 
 ## Dica #3! ##
 Assim como citado no guia de contribuição, coloque na descrição do seu PR o  seguinte trecho:
@@ -110,10 +110,10 @@ Mas de toda a experiência como um todo, o que eu mais gostei foi a forma como t
 
 No Twitter eu postei um agradecimento a Maira pelo meu primeiro pull request aprovado e me agradeceram também pelo trabalho. Bill Wagner citou o quão impressionado ele é com a comunidade .NET e como somos tão envolvidos na causa.
 
-![Twitter_Bill](../assets/images/twitter_bill.png)
+![Twitter_Bill](../../assets/images/twitter_bill.png)
 
 E acredito que não seja só eu que me sinta assim. O twitter oficial da própria documentação, o [@docsmsft](http://twitter.com/docsmsft), interage bastante com todos nós e costuma retweetar muitos agradecimentos de novos contribuidores.
 
-![Twitter_Docs](../assets/images/twitter_docs.png)
+![Twitter_Docs](../../assets/images/twitter_docs.png)
 
 E você, está esperando o que pra começar?
