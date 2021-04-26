@@ -17,9 +17,10 @@ locale: "pt-BR"
 title: Blog
 email: lucasnobredev@outlook.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Este é o meu blog pessoal, onde eu compartilho minhas experiencias como
+  desenvolvedor e lider técnico, o que estou estudando e o que eu aprendi
+  ao longo da minha carreira. Eu espero que você junte-se a esta conversa.
+
 twitter_username: lucasnobredev
 github_username: lucasnobredev
 minimal_mistakes_skin: default
