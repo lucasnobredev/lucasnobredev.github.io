@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Sobre"
 ---
 
 <img src="https://pbs.twimg.com/profile_images/1100360595944194049/XukYIGpu_400x400.jpg" style="border-radius:50%; width:20%; margin:0 40%" />
