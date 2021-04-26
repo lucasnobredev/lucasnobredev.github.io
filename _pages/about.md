@@ -12,9 +12,9 @@ Comecei a ter contato com desenvolvimento de software em 2012 no SENAI Maracanã
 Sou formado em Análise de Sistemas pela Universidade Estácio de Sá.
 
 ## Por que ter um blog?
-Em 2017 passei por uma situação bem desafiadora para um jovem desenvolvedor: ser a referência de um time bem jovem. Na época nosso desenvolvedor mais experiente havia acabado de sair e vi a oportunidade de cumprir esta função que ele exercia tão bem. 
+Em 2017 passei por uma situação bem desafiadora: ser a referência de um time bem jovem. Na época nosso desenvolvedor mais experiente havia acabado de sair e vi a oportunidade de cumprir esta função que ele exercia tão bem. 
 
-Durante aquele período, me tornei a pessoa responsável que ajudava o time com dúvidas técnicas, a desenhar fluxos de negócio e disseminamos muito conhecimento entre nós. Foi nesta época que percebi o quanto eu passei a curtir ensinar! Principalmente porque além do meu time crescer dia após dia, eu aprendia duas vezes. Foi incrível o quanto nós crescemos com essa troca. 
+Durante aquele período, me tornei a pessoa responsável por ajudar o time com dúvidas técnicas, a desenhar fluxos de negócio e disseminamos muito conhecimento entre nós. Foi nesta época que percebi o quanto eu passei a curtir ensinar! Principalmente porque além do meu time crescer dia após dia, eu aprendia duas vezes. Foi incrível o quanto nós crescemos com essa troca. 
 
 De lá pra cá trabalhando na Mundipagg não foi diferente. É um lugar de pessoas muito boas e o aprendizado é constante com esses caras! Lá eu fui estimulado a compartilhar através de outras formas como o open-source, onde eu comecei a contribuir ainda em 2018 com [.NET Docs](https://docs.microsoft.com/pt-br/dotnet/); tive a oportunidade de falar em alguns tech talks sobre DDD e minhas experiências com código legado; e recentemente pude participar de um [Pagar.me Talks](https://www.youtube.com/channel/UCNhSCufrcOMeFvzEM7tt9Lw) falando sobre como criar uma API Restfull em .NET.
 
