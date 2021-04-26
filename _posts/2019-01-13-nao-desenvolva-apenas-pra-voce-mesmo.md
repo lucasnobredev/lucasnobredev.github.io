@@ -1,12 +1,9 @@
 ---
-layout: post
 title: "Não desenvolva apenas pra você mesmo"
 author: "Lucas Nobre"
 categories: open-source
 tags: [pessoal,git, github, opensource,open,source,codigo,aberto,dicas]
 image: dont_just_code_for_yourself.jpg
-hide: false
-summary: "Quando você começar a compartilhar conhecimento com o seu time, eles certamente irão te perguntar sobre coisas que você não conhece ou não sabe o suficiente, o que irá fazer você estudar mais e mais."
 ---
 
 Foi em 2012 quando tive a minha primeira experiência com desenvolvimento de software. Eu ainda me lembro do exato momento em que [meu primeiro professor](https://www.linkedin.com/in/fabr%C3%ADcio-curvello-gomes-0aa68842/) nesta jornada escreveu o primeiro _html_ no datashow. Todo mundo estava muito animado para escutá-lo e ele **tinha esse jeito especial de nos envolver e nos inspirar** a seguir nesta jornada! Ele plantou a semente em cada um de nós. Neste dia eu disse a mim mesmo:
