@@ -59,16 +59,16 @@ plugins:
 
 author:
   name   : "Lucas Nobre"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Hoje, o ‘eu não sei’, se tornou o ‘eu ainda não sei'. <br> - Bill Gates."
+  avatar : "/assets/images/photo-bio.jpg"
+  bio    : "Software Engineer"
   links:
-    - label: "@lucasnobredev"
+    - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lucasnobredev"
-    - label: "@lucasnobredev"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/lucasnobredev"
-    - label: "@lucasnobredev"
+    - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/lucasnobredev"
 
